@@ -1,0 +1,11 @@
+address,sold_price,sold_date,beds,baths,sqft,price_per_sqft,miles_away,url
+"153 NW 78th St, Seattle, WA 98117",799999,2026-09-11,3,1,1270,630,0.1,https://www.zillow.com/homedetails/153-NW-78th-St-Seattle-WA-98117/48748131_zpid/
+"323 NW 83rd Street, Seattle, WA 98117",785000,2026-09-30,2,1,1310,599,0.17,https://www.zillow.com/homedetails/323-NW-83rd-St-Seattle-WA-98117/48836359_zpid/
+"8311 3rd Avenue NW, Seattle, WA 98117",580000,2026-09-15,2,1,1300,446,0.2,https://www.zillow.com/homedetails/8311-3rd-Ave-NW-Seattle-WA-98117/48836392_zpid/
+"310 NW 75th Street, Seattle, WA 98117",910000,2026-09-18,2,2,1920,474,0.23,https://www.zillow.com/homedetails/310-NW-75th-St-Seattle-WA-98117/49041930_zpid/
+"343 NW 74th Street, Seattle, WA 98117",730000,2026-10-30,2,1,1470,497,0.32,https://www.zillow.com/homedetails/343-NW-74th-St-Seattle-WA-98117/48746595_zpid/
+"8040 Dibble Avenue NW, Seattle, WA 98117",1090000,2026-10-05,3,2,1940,562,0.33,https://www.zillow.com/homedetails/8040-Dibble-Ave-NW-Seattle-WA-98117/48836967_zpid/
+"347 NW 74th Street, Seattle, WA 98117",1195000,2026-09-15,3,2,1850,646,0.33,https://www.zillow.com/homedetails/347-NW-74th-St-Seattle-WA-98117/48746594_zpid/
+"7418 8th Avenue NW, Seattle, WA 98117",908775,2026-09-09,2,1,1570,579,0.36,https://www.zillow.com/homedetails/7418-8th-Ave-NW-Seattle-WA-98117/48746651_zpid/
+"8313 C 12th Avenue NW, Seattle, WA 98117",899000,2026-10-01,3,3,1840,489,0.56,https://www.zillow.com/homedetails/8313-C-12th-Ave-NW-Seattle-WA-98117/461738168_zpid/
+"8323 A 12th Avenue NW, Seattle, WA 98117",825000,2026-10-16,3,3,1870,441,0.58,https://www.zillow.com/homedetails/8323-A-12th-Ave-NW-Seattle-WA-98117/464381404_zpid/

@@ -1,0 +1,16 @@
+$ python snapshot.py "data engineer" "Austin, TX"
+data engineer in Austin, TX
+  Indeed lists 2,327 postings in all
+  read 39 from Indeed and 10 from LinkedIn; 3 on both, 46 unique
+  pay (midpoint of the posted range, 20 of 46 postings show one): median $177,400, middle half $141,551 to $228,000 a year
+  on-site: 28 (61%), hybrid: 11 (24%), remote: 7 (15%)
+  most postings:
+      4  DataAnnotation
+      4  CrowdStrike
+      4  The HT Group
+      3  Aristocrat
+      2  Apple
+      1  Expedia
+      1  Apgar
+      1  Fortis Construction, Inc.
+wrote jobs.csv (3 credits)

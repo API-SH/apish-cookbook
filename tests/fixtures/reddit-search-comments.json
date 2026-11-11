@@ -1,0 +1,9 @@
+{
+ "query": "Notion",
+ "sort": "new",
+ "count": 2,
+ "comments": [
+  {"id": "t1_c1", "body": "We use Notion for docs and Linear for tickets.", "score": 5, "created_at": "2026-11-10T22:10:00.000000+0000", "url": "https://www.reddit.com/r/startups/comments/x/c1/", "subreddit": {"name": "startups"}},
+  {"id": "t1_c2", "body": "I had a vague notion of where it was.", "score": 1, "created_at": "2026-11-10T22:00:00.000000+0000", "url": "https://www.reddit.com/r/AskReddit/comments/y/c2/", "subreddit": {"name": "AskReddit"}}
+ ]
+}

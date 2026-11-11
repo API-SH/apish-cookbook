@@ -1,0 +1,11 @@
+{
+ "query": "Notion",
+ "sort": "new",
+ "engine": "web",
+ "count": 3,
+ "posts": [
+  {"id": "t3_post1", "title": "Moving our team wiki from Notion to plain Markdown", "text": null, "subreddit": "productivity", "published": "2026-11-10T21:04:00.000000+0000", "score": 12, "url": "https://www.reddit.com/r/productivity/comments/post1/"},
+  {"id": "t3_post2", "title": "The notion that rest is lazy", "text": null, "subreddit": "selfimprovement", "published": "2026-11-10T20:00:00.000000+0000", "score": 40, "url": "https://www.reddit.com/r/selfimprovement/comments/post2/"},
+  {"id": "t3_post3", "title": "Best template for a reading list?", "text": "I keep mine in Notion but it's slow on mobile.", "subreddit": "Notion", "published": "2026-11-10T19:30:00.000000+0000", "score": 3, "url": "https://www.reddit.com/r/Notion/comments/post3/"}
+ ]
+}

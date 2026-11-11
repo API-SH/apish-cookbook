@@ -1,0 +1,82 @@
+{
+ "count": 2,
+ "results": [
+  {
+   "query": "plumbers in Boulder, CO",
+   "count": 3,
+   "places": [
+    {
+     "name": "Planet Plumbing & Drain",
+     "business_id": "0x876c18c6e512e0cd:0x79f3db8cb2de6c90",
+     "website": "https://www.planetplumbinganddrain.com/",
+     "phone_number": "+17205731008",
+     "city": "Boulder",
+     "rating": 4.6,
+     "review_count": 483,
+     "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x876c18c6e512e0cd:0x79f3db8cb2de6c90"
+    },
+    {
+     "name": "Canyon Plumbing & Heating, Inc",
+     "business_id": "0x876bfb527c88c967:0xd214b86fc1fc72be",
+     "website": "https://www.canyonplumbers.com/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-listing",
+     "phone_number": "+17204806228",
+     "city": "Boulder",
+     "rating": 4.9,
+     "review_count": 299,
+     "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x876bfb527c88c967:0xd214b86fc1fc72be"
+    },
+    {
+     "name": "Mesa Plumbing, Heating and Cooling",
+     "business_id": "0x876bf1cc19a1865d:0xc9ce44cbcc130f0a",
+     "website": "https://www.mesa-plumbing.com/?utm_source=GBP&utm_medium=organic&utm_campaign=boulder",
+     "phone_number": "+17208053663",
+     "city": "Boulder",
+     "rating": 4.7,
+     "review_count": 751,
+     "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x876bf1cc19a1865d:0xc9ce44cbcc130f0a"
+    }
+   ],
+   "next_page": 2,
+   "error": null
+  },
+  {
+   "query": "plumbers in Longmont, CO",
+   "count": 3,
+   "places": [
+    {
+     "name": "Planet Plumbing & Drain",
+     "business_id": "0x876c18c6e512e0cd:0x79f3db8cb2de6c90",
+     "website": "https://www.planetplumbinganddrain.com/",
+     "phone_number": "+17205731008",
+     "city": "Boulder",
+     "rating": 4.6,
+     "review_count": 483,
+     "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x876c18c6e512e0cd:0x79f3db8cb2de6c90"
+    },
+    {
+     "name": "M and M Heating, Cooling, Plumbing and Electrical",
+     "business_id": "0x876bf914cda498af:0xcd80846a36a1c6b9",
+     "website": "https://mandmhvac.com/?utm_source=GBP&utm_medium=organic&utm_campaign=MNM_ORG_EVER_A_GBP_Listing",
+     "phone_number": "+17209158146",
+     "city": "Longmont",
+     "rating": 4.9,
+     "review_count": 3788,
+     "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x876bf914cda498af:0xcd80846a36a1c6b9"
+    },
+    {
+     "name": "Planet Plumbing & Drain",
+     "business_id": "0x876c07d5b69af0ed:0x3251b5ec18b91c1e",
+     "website": "https://www.planetplumbinganddrain.com/",
+     "phone_number": "+13037720206",
+     "city": "Longmont",
+     "rating": 4.6,
+     "review_count": 84,
+     "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x876c07d5b69af0ed:0x3251b5ec18b91c1e"
+    }
+   ],
+   "next_page": 2,
+   "error": null
+  }
+ ],
+ "cached": false
+}

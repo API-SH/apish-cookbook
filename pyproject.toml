@@ -1,0 +1,11 @@
+# Settings for the cookbook's checks (each recipe has its own requirements.txt).
+[tool.ruff]
+line-length = 120
+target-version = "py39"
+extend-exclude = [".venv", "node_modules"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

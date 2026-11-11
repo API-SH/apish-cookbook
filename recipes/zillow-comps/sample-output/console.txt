@@ -1,0 +1,18 @@
+$ python comps.py "149 NW 80th St, Seattle, WA 98117"
+149 NW 80th Street, Seattle, WA 98117
+  2 bd, 1 ba, 1610 sq ft, built 1925, for sale, listed at $789,000, Zestimate $768,200
+
+10 comparable sales in the last 6 months, nearest first:
+  153 NW 78th St, Seattle, WA 98117             $799,999  2026-09-11  3 bd  1270 sq ft  $630/sq ft  0.1 mi
+  323 NW 83rd Street, Seattle, WA 98117         $785,000  2026-09-30  2 bd  1310 sq ft  $599/sq ft  0.17 mi
+  8311 3rd Avenue NW, Seattle, WA 98117         $580,000  2026-09-15  2 bd  1300 sq ft  $446/sq ft  0.2 mi
+  310 NW 75th Street, Seattle, WA 98117         $910,000  2026-09-18  2 bd  1920 sq ft  $474/sq ft  0.23 mi
+  343 NW 74th Street, Seattle, WA 98117         $730,000  2026-10-30  2 bd  1470 sq ft  $497/sq ft  0.32 mi
+  8040 Dibble Avenue NW, Seattle, WA 98117    $1,090,000  2026-10-05  3 bd  1940 sq ft  $562/sq ft  0.33 mi
+  347 NW 74th Street, Seattle, WA 98117       $1,195,000  2026-09-15  3 bd  1850 sq ft  $646/sq ft  0.33 mi
+  7418 8th Avenue NW, Seattle, WA 98117         $908,775  2026-09-09  2 bd  1570 sq ft  $579/sq ft  0.36 mi
+  8313 C 12th Avenue NW, Seattle, WA 98117      $899,000  2026-10-01  3 bd  1840 sq ft  $489/sq ft  0.56 mi
+  8323 A 12th Avenue NW, Seattle, WA 98117      $825,000  2026-10-16  3 bd  1870 sq ft  $441/sq ft  0.58 mi
+
+median $530/sq ft -> estimated value $852,495 (middle half of comps: $751,870 to $976,868)
+wrote comps.csv (3 credits)

@@ -1,0 +1,26 @@
+{
+ "q": "1600 Pearl St, Boulder, CO",
+ "count": 1,
+ "results": [
+  {
+   "display": "1600 Pearl St Boulder, CO 80302",
+   "type": "Address",
+   "region_type": null,
+   "region_id": null,
+   "address_type": "sold_address",
+   "zpid": 338136411,
+   "street": "1600 Pearl St",
+   "unit": null,
+   "city": "Boulder",
+   "county": null,
+   "state": "CO",
+   "zip": "80302",
+   "country": "US",
+   "latitude": 40.018776,
+   "longitude": -105.274124,
+   "url": "https://www.zillow.com/homedetails/338136411_zpid/"
+  }
+ ],
+ "cached": false,
+ "fetched_at": "2026-11-11T00:39:21.121Z"
+}

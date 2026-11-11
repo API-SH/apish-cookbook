@@ -1,0 +1,10 @@
+.venv/
+node_modules/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.env
+# files the recipes write when you run them (samples live in sample-output/)
+recipes/*/*.csv
+recipes/*/prices.json
+recipes/*/seen.json

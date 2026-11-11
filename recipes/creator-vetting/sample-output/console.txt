@@ -1,0 +1,5 @@
+$ node vet.mjs
+tiktok:nasa                2171681 followers    0.8% engagement  2.8 posts/week
+tiktok:duolingo           18480246 followers   0.49% engagement  6.3 posts/week  [low engagement]
+instagram:duolingo         5399126 followers   0.29% engagement  8.7 posts/week  [low engagement]
+wrote creators-report.csv (3 creators, 5 credits)

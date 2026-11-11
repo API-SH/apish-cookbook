@@ -1,0 +1,13 @@
+id,published_at,rating,title,text,language,author,author_country,verified,replied,reply,url
+review-1,2026-11-09,3,have been using this for several years,"have been using this for several years, it's good for document management, but it's getting more and more functions without focus recently",en,Reviewer 1,CN,False,False,,https://www.trustpilot.com/reviews/<id>
+review-2,2026-11-08,1,Extremely predatory billing practices…,Extremely predatory billing practices and nonexistent customer support. I would not trust this company with your credit card information. ,en,Reviewer 2,GB,False,False,,https://www.trustpilot.com/reviews/<id>
+review-3,2026-11-03,1,"AI allowance reduced, but restoration declined after conflicting explanations","My experience with Notion AI support has damaged my trust in the service.
+
+For transparency, my workspace was on a Business trial/promotional offer. This complaint concerns usage benefits and the handling of a dispute, not a cash charge.
+
+After an unexpected usage change, I contacted support. Replie...",en,Reviewer 3,US,False,False,,https://www.trustpilot.com/reviews/<id>
+review-4,2026-10-31,4,Solid for docs and team notes,I've used Notion for project docs and personal notes for a while. Linked databases keep sprint notes and specs in one place without another wiki. Sync is fine across laptop and phone; search gets a bit noisy once the workspace gets big.,en,Reviewer 4,JP,False,False,,https://www.trustpilot.com/reviews/<id>
+review-5,2026-10-20,2,I find everything in Notion a bit too chaotic,I really tried using it and it seems to be capable of a lot but there is simply too much going on and I need to pay to continue using basic features which would have been ok if I did not find the tool so overwhelming.,en,Reviewer 5,CH,False,False,,https://www.trustpilot.com/reviews/<id>
+review-6,2026-10-08,1,"very misleading. subscription required, and extra credits need to be paid. ","everything is free, then once all your work is uploaded and you start using it they will charge you cause you know 'you ran out of free blocks'. i rather restart my whole work in excell. shame cause the product is not bad. is the absurd monetisation tactic that made me leave the review. ",en,Reviewer 6,GB,False,False,,https://www.trustpilot.com/reviews/<id>
+review-7,2026-10-03,1,Absolute trash,Absolute trash. You pay 200 euros per month to have access to everything and then you find out that you need to buy extra credits after one smarter AI prompt. Scam.,en,Reviewer 7,NL,False,False,,https://www.trustpilot.com/reviews/<id>
+review-8,2026-09-28,1,not loading.,not loading.,en,Reviewer 8,LT,False,False,,https://www.trustpilot.com/reviews/<id>

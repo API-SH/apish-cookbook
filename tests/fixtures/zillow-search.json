@@ -1,0 +1,85 @@
+{
+ "page": 1,
+ "total_results": 1704,
+ "next_page": 2,
+ "homes": [
+  {
+   "zpid": "48789555",
+   "address": "8542 32nd Avenue NW, Seattle, WA 98117",
+   "unformatted_price": 1475000,
+   "beds": 4,
+   "baths": 2,
+   "area": 2200,
+   "living_area": 2200,
+   "date_sold": 1794297600000,
+   "latitude": 47.691807,
+   "longitude": -122.397995,
+   "url": "https://www.zillow.com/homedetails/8542-32nd-Ave-NW-Seattle-WA-98117/48789555_zpid/"
+  },
+  {
+   "zpid": "465137184",
+   "address": "2838 NW 73rd Street, Seattle, WA 98117",
+   "unformatted_price": 770000,
+   "beds": 2,
+   "baths": 3,
+   "area": 1100,
+   "living_area": 1100,
+   "date_sold": 1793865600000,
+   "latitude": 47.68189,
+   "longitude": -122.39467,
+   "url": "https://www.zillow.com/homedetails/2838-NW-73rd-St-Seattle-WA-98117/465137184_zpid/"
+  },
+  {
+   "zpid": "48976949",
+   "address": "7534 Jones Avenue NW, Seattle, WA 98117",
+   "unformatted_price": 940000,
+   "beds": 4,
+   "baths": 2,
+   "area": 1880,
+   "living_area": 1880,
+   "date_sold": 1793779200000,
+   "latitude": 47.6842,
+   "longitude": -122.38616,
+   "url": "https://www.zillow.com/homedetails/7534-Jones-Ave-NW-Seattle-WA-98117/48976949_zpid/"
+  },
+  {
+   "zpid": "48991840",
+   "address": "9304 23rd Avenue NW, Seattle, WA 98117",
+   "unformatted_price": 1370000,
+   "beds": 3,
+   "baths": 3,
+   "area": 3340,
+   "living_area": 3340,
+   "date_sold": 1793779200000,
+   "latitude": 47.69647,
+   "longitude": -122.385315,
+   "url": "https://www.zillow.com/homedetails/9304-23rd-Ave-NW-Seattle-WA-98117/48991840_zpid/"
+  },
+  {
+   "zpid": "333790124",
+   "address": "8012 20th Ave NW, Seattle, WA 98117",
+   "unformatted_price": 771000,
+   "beds": 3,
+   "baths": 3,
+   "area": 1505,
+   "living_area": 1505,
+   "date_sold": 1793692800000,
+   "latitude": 47.68737,
+   "longitude": -122.38172,
+   "url": "https://www.zillow.com/homedetails/8012-20th-Ave-NW-Seattle-WA-98117/333790124_zpid/"
+  },
+  {
+   "zpid": "48714398",
+   "address": "7712 19th Avenue NW, Seattle, WA 98117",
+   "unformatted_price": 725000,
+   "beds": 1,
+   "baths": 1,
+   "area": 1730,
+   "living_area": 1730,
+   "date_sold": 1793606400000,
+   "latitude": 47.685493,
+   "longitude": -122.38084,
+   "url": "https://www.zillow.com/homedetails/7712-19th-Ave-NW-Seattle-WA-98117/48714398_zpid/"
+  }
+ ]
+}

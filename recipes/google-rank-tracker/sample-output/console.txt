@@ -1,0 +1,7 @@
+$ python rank.py --domain python.org --keywords-file keywords.txt
+keyword                               now before  url
+python tutorial                         1      -  https://docs.python.org/3/tutorial/index.html
+learn python                            -      -  
+
+1 of 2 keywords in the top 10, average position 1.0
+appended to rankings.csv (6 credits)

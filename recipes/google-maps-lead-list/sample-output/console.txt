@@ -1,0 +1,8 @@
+$ python lead_list.py --areas "Denver, CO|Aurora, CO" --max-leads 10
+roofing contractors in Denver, CO             20 places
+roofing contractors in Aurora, CO             20 places
+38 unique businesses (2 credits)
+10 pass the filters
+contacts for 10 businesses (10 credits)
+3 leads with an email, 10 with a phone, no answer from 0 of their websites
+wrote leads.csv (12 credits in total)

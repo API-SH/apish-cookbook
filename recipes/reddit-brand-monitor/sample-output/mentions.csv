@@ -1,0 +1,4 @@
+found_at,kind,subreddit,created,score,url,text
+2026-11-11T00:45:56.481Z,comment,productivity,2026-11-11T00:40:18.143000+0000,2,https://www.reddit.com/r/productivity/comments/<post>/<comment>/,"We moved our meeting notes into Notion last month and the team actually reads them now."
+2026-11-11T00:45:56.481Z,comment,Notion,2026-11-11T00:39:02.000000+0000,1,https://www.reddit.com/r/Notion/comments/<post>/<comment>/,"Is there a way to make a Notion database view that only shows this week's tasks?"
+2026-11-11T00:45:56.481Z,post,startups,2026-11-11T00:36:41.000000+0000,5,https://www.reddit.com/r/startups/comments/<post>/,"What do you use for internal docs: Notion, Confluence or plain Markdown?"

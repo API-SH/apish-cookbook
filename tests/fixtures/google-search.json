@@ -1,0 +1,76 @@
+{
+ "query": "python tutorial",
+ "results": [
+  {
+   "position": 1,
+   "title": "Python Tutorial - W3Schools",
+   "url": "https://www.w3schools.com/python/",
+   "domain": "w3schools.com",
+   "snippet": ""
+  },
+  {
+   "position": 2,
+   "title": "Learn Python - Free Interactive Python Tutorial",
+   "url": "https://www.learnpython.org/",
+   "domain": "learnpython.org",
+   "snippet": ""
+  },
+  {
+   "position": 3,
+   "title": "Python Tutorials \u2013 Real Python",
+   "url": "https://realpython.com/",
+   "domain": "realpython.com",
+   "snippet": ""
+  },
+  {
+   "position": 4,
+   "title": "The Python Tutorial",
+   "url": "https://docs.python.org/3/tutorial/",
+   "domain": "docs.python.org",
+   "snippet": ""
+  },
+  {
+   "position": 5,
+   "title": "Python Tutorial | Learn Python Programming Language",
+   "url": "https://www.geeksforgeeks.org/python/python-programming-language-tutorial/",
+   "domain": "geeksforgeeks.org",
+   "snippet": ""
+  },
+  {
+   "position": 6,
+   "title": "Python for Beginners - Full Course",
+   "url": "https://www.youtube.com/watch?v=example",
+   "domain": "youtube.com",
+   "snippet": ""
+  },
+  {
+   "position": 7,
+   "title": "Learn Python Programming",
+   "url": "https://www.programiz.com/python-programming",
+   "domain": "programiz.com",
+   "snippet": ""
+  },
+  {
+   "position": 8,
+   "title": "Python Tutorial",
+   "url": "https://www.tutorialspoint.com/python/index.htm",
+   "domain": "tutorialspoint.com",
+   "snippet": ""
+  },
+  {
+   "position": 9,
+   "title": "r/learnpython",
+   "url": "https://www.reddit.com/r/learnpython/",
+   "domain": "reddit.com",
+   "snippet": ""
+  },
+  {
+   "position": 10,
+   "title": "Best Python Courses Online",
+   "url": "https://www.coursera.org/courses?query=python",
+   "domain": "coursera.org",
+   "snippet": ""
+  }
+ ],
+ "next_page": 2
+}

@@ -1,0 +1,46 @@
+{
+ "count": 5,
+ "next_start": null,
+ "jobs": [
+  {
+   "title": "Data Engineer I, Secure Third Party Tools (S3T)",
+   "company": "Amazon",
+   "address": "Austin, TX",
+   "job_url": "https://www.linkedin.com/jobs/view/data-engineer-i-secure-third-party-tools-s3t-at-amazon-4488141866",
+   "job_id": "4488141866",
+   "listed_at": "2026-11-06"
+  },
+  {
+   "title": "Staff Data Engineer",
+   "company": "Self Financial, Inc.",
+   "address": "Austin, TX",
+   "job_url": "https://www.linkedin.com/jobs/view/staff-data-engineer-at-self-financial-inc-4425916223",
+   "job_id": "4425916223",
+   "listed_at": "2026-06-08"
+  },
+  {
+   "title": "Databricks Data Engineer",
+   "company": "Deloitte",
+   "address": "Austin, TX",
+   "job_url": "https://www.linkedin.com/jobs/view/databricks-data-engineer-at-deloitte-4473921787",
+   "job_id": "4473921787",
+   "listed_at": "2026-10-22"
+  },
+  {
+   "title": "Data Engineer",
+   "company": "DLA Piper",
+   "address": "Austin, Texas Metropolitan Area",
+   "job_url": "https://www.linkedin.com/jobs/view/data-engineer-at-dla-piper-4464651320",
+   "job_id": "4464651320",
+   "listed_at": "2026-10-22"
+  },
+  {
+   "title": "Data Engineer III",
+   "company": "Expedia",
+   "address": "Austin, TX (Hybrid)",
+   "job_url": "https://www.linkedin.com/jobs/view/1",
+   "job_id": "1",
+   "listed_at": "2026-11-09"
+  }
+ ]
+}

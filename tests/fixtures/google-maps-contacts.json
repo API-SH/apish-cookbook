@@ -1,0 +1,88 @@
+{
+ "count": 5,
+ "businesses": [
+  {
+   "business_id": "0x876c18c6e512e0cd:0x79f3db8cb2de6c90",
+   "name": "Planet Plumbing & Drain",
+   "website": "https://www.planetplumbinganddrain.com/",
+   "emails_and_contacts": {
+    "emails": [
+     "info@planetplumbinganddrain.com",
+     "hello@webagency.example"
+    ],
+    "phone_numbers": [],
+    "facebook": "https://facebook.com/example0",
+    "instagram": null,
+    "linkedin": null,
+    "pages_checked": [
+     "https://www.planetplumbinganddrain.com/"
+    ]
+   }
+  },
+  {
+   "business_id": "0x876bfb527c88c967:0xd214b86fc1fc72be",
+   "name": "Canyon Plumbing & Heating, Inc",
+   "website": "https://www.canyonplumbers.com/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-listing",
+   "emails_and_contacts": {
+    "emails": [],
+    "phone_numbers": [],
+    "facebook": null,
+    "instagram": null,
+    "linkedin": null,
+    "pages_checked": []
+   }
+  },
+  {
+   "business_id": "0x876bf1cc19a1865d:0xc9ce44cbcc130f0a",
+   "name": "Mesa Plumbing, Heating and Cooling",
+   "website": "https://www.mesa-plumbing.com/?utm_source=GBP&utm_medium=organic&utm_campaign=boulder",
+   "emails_and_contacts": {
+    "emails": [
+     "info@mesa-plumbing.com",
+     "hello@webagency.example"
+    ],
+    "phone_numbers": [],
+    "facebook": "https://facebook.com/example2",
+    "instagram": null,
+    "linkedin": null,
+    "pages_checked": [
+     "https://www.mesa-plumbing.com/?utm_source=GBP&utm_medium=organic&utm_campaign=boulder"
+    ]
+   }
+  },
+  {
+   "business_id": "0x876bf914cda498af:0xcd80846a36a1c6b9",
+   "name": "M and M Heating, Cooling, Plumbing and Electrical",
+   "website": "https://mandmhvac.com/?utm_source=GBP&utm_medium=organic&utm_campaign=MNM_ORG_EVER_A_GBP_Listing",
+   "emails_and_contacts": {
+    "emails": [],
+    "phone_numbers": [],
+    "facebook": null,
+    "instagram": null,
+    "linkedin": null,
+    "pages_checked": [
+     "https://mandmhvac.com/?utm_source=GBP&utm_medium=organic&utm_campaign=MNM_ORG_EVER_A_GBP_Listing"
+    ]
+   }
+  },
+  {
+   "business_id": "0x876c07d5b69af0ed:0x3251b5ec18b91c1e",
+   "name": "Planet Plumbing & Drain",
+   "website": "https://www.planetplumbinganddrain.com/",
+   "emails_and_contacts": {
+    "emails": [
+     "info@planetplumbinganddrain.com",
+     "hello@webagency.example"
+    ],
+    "phone_numbers": [],
+    "facebook": "https://facebook.com/example4",
+    "instagram": null,
+    "linkedin": null,
+    "pages_checked": [
+     "https://www.planetplumbinganddrain.com/"
+    ]
+   }
+  }
+ ],
+ "cached": false
+}

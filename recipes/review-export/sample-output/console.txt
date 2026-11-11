@@ -1,0 +1,5 @@
+$ python export_reviews.py notion.so --pages 2
+Notion (notion.so): TrustScore 2.2, 444 reviews, 104 in the last 12 months
+  stars: 5: 142  4: 47  3: 24  2: 36  1: 195
+exported 40 reviews (2026-04-29 to 2026-11-09), average 2.1 stars, 0 with a company reply
+wrote notion.so-reviews.csv (2 credits)

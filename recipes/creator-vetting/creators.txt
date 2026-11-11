@@ -1,0 +1,4 @@
+# One creator per line: tiktok:handle, instagram:handle or a profile link
+tiktok:duolingo
+instagram:duolingo
+tiktok:nasa

@@ -1,0 +1,5 @@
+$ node monitor.mjs --brand Notion --time day
+comment r/productivity          2026-11-11T00:40  We moved our meeting notes into Notion last month and the team actually reads them now.
+comment r/Notion                2026-11-11T00:39  Is there a way to make a Notion database view that only shows this week's tasks?
+post    r/startups              2026-11-11T00:36  What do you use for internal docs: Notion, Confluence or plain Markdown?
+3 new mention(s) of "Notion" out of 17 search results (2 credits)

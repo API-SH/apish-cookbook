@@ -1,0 +1,216 @@
+{
+ "query": "data engineer",
+ "total_results": 2328,
+ "jobs": [
+  {
+   "job_key": "52bae2bb1fdad97e",
+   "title": "Data Engineer III",
+   "company": "Expedia",
+   "location": "Austin, TX 78758",
+   "salary": "$146,000 - $233,500 a year",
+   "salary_min": 146000,
+   "salary_max": 233500,
+   "salary_type": "YEARLY",
+   "remote": false,
+   "pub_date": "2026-11-09T06:00:00.000Z",
+   "url": "https://www.indeed.com/viewjob?jk=52bae2bb1fdad97e",
+   "attributes": [
+    {
+     "group": "job-types",
+     "label": "Full-time"
+    },
+    {
+     "group": "benefits",
+     "label": "Dental insurance"
+    },
+    {
+     "group": "benefits",
+     "label": "Employee assistance program"
+    },
+    {
+     "group": "benefits",
+     "label": "Vision insurance"
+    },
+    {
+     "group": "benefits",
+     "label": "Employee discount"
+    },
+    {
+     "group": "benefits",
+     "label": "Health insurance"
+    },
+    {
+     "group": "benefits",
+     "label": "Paid time off"
+    },
+    {
+     "group": "job-types-cc",
+     "label": "Full-time"
+    }
+   ]
+  },
+  {
+   "job_key": "2f045842d4c73ee3",
+   "title": "Data Engineer – US",
+   "company": "Apgar",
+   "location": "Austin, TX",
+   "salary": null,
+   "salary_min": null,
+   "salary_max": null,
+   "salary_type": null,
+   "remote": false,
+   "pub_date": "2026-04-02T05:00:00.000Z",
+   "url": "https://www.indeed.com/viewjob?jk=2f045842d4c73ee3",
+   "attributes": [
+    {
+     "group": "benefits",
+     "label": "Dental insurance"
+    },
+    {
+     "group": "benefits",
+     "label": "Flexible schedule"
+    },
+    {
+     "group": "benefits",
+     "label": "Disability insurance"
+    },
+    {
+     "group": "benefits",
+     "label": "Paid time off"
+    },
+    {
+     "group": "benefits",
+     "label": "Retirement plan"
+    },
+    {
+     "group": "benefits",
+     "label": "Vision insurance"
+    },
+    {
+     "group": "benefits",
+     "label": "Life insurance"
+    }
+   ]
+  },
+  {
+   "job_key": "2c81ebcd56383ad7",
+   "title": "Data Engineer",
+   "company": "Fortis Construction, Inc.",
+   "location": "Austin, TX",
+   "salary": null,
+   "salary_min": null,
+   "salary_max": null,
+   "salary_type": null,
+   "remote": false,
+   "pub_date": "2026-11-09T06:00:00.000Z",
+   "url": "https://www.indeed.com/viewjob?jk=2c81ebcd56383ad7",
+   "attributes": [
+    {
+     "group": "job-types",
+     "label": "Full-time"
+    },
+    {
+     "group": "job-types-cc",
+     "label": "Full-time"
+    }
+   ]
+  },
+  {
+   "job_key": "188476d650f66c02",
+   "title": "Data Engineer",
+   "company": "FluidStack",
+   "location": "Austin, TX",
+   "salary": "$224,000 - $279,000 a year",
+   "salary_min": 224000,
+   "salary_max": 279000,
+   "salary_type": "YEARLY",
+   "remote": false,
+   "pub_date": "2026-09-30T05:00:00.000Z",
+   "url": "https://www.indeed.com/viewjob?jk=188476d650f66c02",
+   "attributes": [
+    {
+     "group": "job-types",
+     "label": "Full-time"
+    },
+    {
+     "group": "benefits",
+     "label": "RSU"
+    },
+    {
+     "group": "job-types-cc",
+     "label": "Full-time"
+    }
+   ]
+  },
+  {
+   "job_key": "87d881a6d9f91426",
+   "title": "Associate Data Engineer",
+   "company": "CleanSlate Technology Group",
+   "location": "Austin, TX",
+   "salary": null,
+   "salary_min": null,
+   "salary_max": null,
+   "salary_type": null,
+   "remote": false,
+   "pub_date": "2026-10-27T05:00:00.000Z",
+   "url": "https://www.indeed.com/viewjob?jk=87d881a6d9f91426",
+   "attributes": [
+    {
+     "group": "job-types",
+     "label": "Full-time"
+    },
+    {
+     "group": "job-types-cc",
+     "label": "Full-time"
+    }
+   ]
+  },
+  {
+   "job_key": "52bedaba8adc69f5",
+   "title": "Software Engineer - AI Trainer",
+   "company": "DataAnnotation",
+   "location": "Georgetown, TX",
+   "salary": "$75 - $150 an hour",
+   "salary_min": 75,
+   "salary_max": 150,
+   "salary_type": "HOURLY",
+   "remote": false,
+   "pub_date": "2026-06-10T05:00:00.000Z",
+   "url": "https://www.indeed.com/viewjob?jk=52bedaba8adc69f5",
+   "attributes": [
+    {
+     "group": "job-types",
+     "label": "Contract"
+    },
+    {
+     "group": "job-types",
+     "label": "Full-time"
+    },
+    {
+     "group": "job-types",
+     "label": "Part-time"
+    },
+    {
+     "group": "remote",
+     "label": "Remote"
+    },
+    {
+     "group": "benefits",
+     "label": "Flexible schedule"
+    },
+    {
+     "group": "job-types-cc",
+     "label": "Contract"
+    },
+    {
+     "group": "job-types-cc",
+     "label": "Full-time"
+    },
+    {
+     "group": "job-types-cc",
+     "label": "Part-time"
+    }
+   ]
+  }
+ ]
+}

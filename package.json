@@ -1,0 +1,20 @@
+{
+  "name": "apish-cookbook",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "recipes/amazon-price-tracker",
+    "recipes/creator-vetting",
+    "recipes/reddit-brand-monitor"
+  ],
+  "scripts": {
+    "lint": "eslint .",
+    "test": "node --test tests/node-recipes.test.mjs"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.1",
+    "eslint": "^9.39.1",
+    "globals": "^16.5.0"
+  },
+  "engines": { "node": ">=18" }
+}

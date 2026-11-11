@@ -1,0 +1,25 @@
+{
+ "url": "https://www.zillow.com/homedetails/48748070_zpid/",
+ "zpid": 48748070,
+ "address": {
+  "streetAddress": "149 NW 80th Street",
+  "city": "Seattle",
+  "state": "WA",
+  "zipcode": "98117"
+ },
+ "price": 789000,
+ "currency": "USD",
+ "bedrooms": 2,
+ "bathrooms": 1,
+ "livingArea": 1610,
+ "yearBuilt": 1925,
+ "homeType": "SINGLE_FAMILY",
+ "homeStatus": "FOR_SALE",
+ "zestimate": 768200,
+ "latitude": 47.68671,
+ "longitude": -122.36011,
+ "streetAddress": "149 NW 80th Street",
+ "city": "Seattle",
+ "state": "WA",
+ "zipcode": "98117"
+}
